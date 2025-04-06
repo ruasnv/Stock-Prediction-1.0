@@ -1,4 +1,5 @@
 # Stock Prediction Project
+## This was the first AI project I made :) The repo needs a good clean up and performance optimization. Be cautious when using!
 
 ## Overview
 
@@ -22,7 +23,7 @@ This project is great for beginners like myself who want to experience more with
 - Needs comparison with real-world data (for the prices with older dates).
 - Increasing the prediction window to more than 30 days might result in higher accuracy.
 - Visualization is weak; it needs a web interface.
-- A CI/CD model would be great.
+- A CI/CD integration is required.
 
 ## License
 
